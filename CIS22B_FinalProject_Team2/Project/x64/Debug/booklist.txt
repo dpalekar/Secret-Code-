@@ -1,0 +1,24 @@
+1455770551,109.99,4,124.99,1,5,2015,Textbook of Medical Physiology,John Hall,Elsevier
+0134544846,175.99,5,189.99,1,3,2015,Starting Out with C++,Tony Gaddis,publisher3
+1449357105,29.99,4,34.99,1,8,2014,Learning R,Richard Cotton,O'Reilly  Media
+1491910399,35.99,5,39.99,1,9,2017,R for Data Science, Hadley Wickham,O'Reilly Media
+1491962291,34.99,4,49.99,1,6,2016,Hands On Machine Learning with Scikit,Aurellea Geron,O'Reilly Media
+1305269470,158.95,5,199.99,1,7,2016,Introduction to Statistical Methods & Data Analysis,Lyman Ott, Brooks Cole
+1612903436,44.95,4,54.95,1,4,2015,The little SAS Book,Ron Cody,SAS Publishing
+1599941651,75.95,5,89.95,1,7,2016,Learning SAS by Examples,Ron Cody,SAS Publishing
+1119055806,21.99,6,29,1,3,2017,R for Dummies,Andriede de Vries,John Wiley & Sons
+1451191776,65.99,4,72.99,1,6,2016,Lippincott's Pharmacology,Karen Whalen,Wolters Kluwer
+0857320167,181.99,3,195,1,5,2014,Remingtons's Pharmaceutical Sciences,Alfred Noble,O'Reilly Media
+0133185966,7.85,6,9.99,1,2,2017,Practice & Problem Solving Geometry Workbook,Ricahrd Beu,Prentice Hall
+0857110624,172.99,4,185,1,2,2015,Remington's Science & Practice of Pharmacy,Lloyd Allen,O'Reilly Media
+0133252817,143,5,158,1,6,2016,Introduction to Porgramming with C++,Daniel Liang,Brooks Cole
+0073534900,49.99,4,59.99,1,4,2016,Teamwork and Project Management,Karl Smith,Brooks Cole 
+0321977300,75.99,4,89.99,1,3,2015,Calculus,William Brigggs,Brooks Cole
+0073385913,199.99,3,221.99,1,4,2017,Engineering Fundamentals & Problem Solving, Arvid Eide,McGraw Hill
+0471134473,17.99,5,22.99,1,4,2016,Basic Physics,Karl Kuhn,John Wiley & Sons
+0132175088,175.99,4,203.05,1,2,2017,Chemistry: The Central Science,Brown & Lemay,Pearson Education
+0321651782,149.99,4,246.67,1,3,2017,Chemistry: A Molecular Approach,Nivaldo TRo,Pearson Education
+0123820308,79.99,4,99.95,1,8,2017,The Organic Chemistry of Drug Design,Richard Silverman,Pearson Education
+0123865379,127.99,2,149.99,1,9,2017,Practical Process Research & Development,Neal Anderson,Elsevier
+0128041293,34.99,3,39.99,1,5,2016,Mass Spectrometry,Michael Madson,Elsevier
+1234567890,60.99,4,45.99,7,12,2017,Introduction to the Fundamentals of Quantum Mechanics,Mary Lou Johnson,McGraw Hill
